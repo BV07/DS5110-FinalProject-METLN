@@ -1,5 +1,5 @@
 # DS5110-FinalProject-METLN
-This repository contains the code produced for the final project as part of the Fall 2025 DS5110 Essentials of Data Science course for the MS Data Science program at Northeastern University's Roux Institute. This work was done in collaboration with Rachita Sharma for the Maine Trust for Local News.
+This repository contains the code produced for our final project as part of the Fall 2025 DS5110 Essentials of Data Science course for the MS Data Science program at Northeastern University's Roux Institute. This work was done in collaboration with Rachita Sharma for the Maine Trust for Local News.
 
 For more information, please feel free to reach out! (villaltalopez.b@northeastern.edu)
 
